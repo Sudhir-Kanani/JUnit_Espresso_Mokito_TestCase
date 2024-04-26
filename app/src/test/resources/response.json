@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "totalResults": 224002,
+  "results": [
+    {
+      "article_id": "c3edd65174ec8e4dd188c5575a6564c9",
+      "title": "Mujica sobre Milei: “Esa política tengo miedo que desemboque en un gobierno autoritario”",
+      "link": "https://www.montevideo.com.uy/auc.aspx?877340",
+      "keywords": [
+        "política"
+      ],
+      "creator": [
+        "Montevideo Portal"
+      ],
+      "video_url": null,
+      "description": "El expresidente afirmó que no espera “nada bueno”, porque “da la impresión” que el mandatario argentino “es un fanático”.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2024-01-21 22:40:00",
+      "image_url": "https://imagenes.montevideo.com.uy/imgnoticias/202401/_W620/869257.jpg",
+      "source_id": "futbol_uy",
+      "source_url": "https://www.futbol.com.uy/categoria/Deportes-94",
+      "source_priority": 261473,
+      "country": [
+        "uruguay"
+      ],
+      "category": [
+        "top"
+      ],
+      "language": "spanish",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS"
+    },
+    {
+      "article_id": "d1c0e70a6f68dbca1888478ab563a1e6",
+      "title": "MARIJA ŠERIFOVIĆ PODELILA PRELEPI MOMENAT SA SINOM! Ova fotka će vam ulepšati dan",
+      "link": "https://www.kurir.rs/stars/4343762/marija-serifovic-podelila-fotku-sa-sinom",
+      "keywords": null,
+      "creator": null,
+      "video_url": null,
+      "description": null,
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2024-01-21 22:40:00",
+      "image_url": "https://www.kurir.rs/data/images/2023/12/26/14/3764760_marija-kuca_ff.jpg",
+      "source_id": "kurir",
+      "source_url": "https://www.kurir.rs",
+      "source_priority": 12337,
+      "country": [
+        "serbia"
+      ],
+      "category": [
+        "entertainment"
+      ],
+      "language": "serbian",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS"
+    }
+  ]
+}
